@@ -1,4 +1,3 @@
 <?php
-$str = "it is ok";
-echo $str;
+this is test conflic
 ?>
