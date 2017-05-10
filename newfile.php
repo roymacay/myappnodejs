@@ -1,4 +1,4 @@
 <?php
-$str = "it is ok";
 echo $str;
+$str = "it is ok";
 ?>
